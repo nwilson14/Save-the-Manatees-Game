@@ -6,5 +6,7 @@ Example Maps:
 https://my.fit.edu/~tertrachter2017/labs/maps/contest3.map
 https://my.fit.edu/~tertrachter2017/labs/maps/contest2.map
 
+The pictures pictures and sound files must be downloaded as well to run.
+
 In cmd go to program location and run:
 python save.py --map [map_url]
